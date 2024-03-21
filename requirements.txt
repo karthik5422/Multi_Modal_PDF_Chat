@@ -16,3 +16,4 @@ langchain_google_genai
 google-generativeai
 
 openai 
+Spire.Presentation
